@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**alliefern/alliefern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Allie!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a coworking app for neurospicy individuals who want to body double but with really cute characters!
+- 🌱 I’m currently learning how to create and run successful Facebook ads.
+- 👯 I’m looking to collaborate on anything! I love collaboration!
+- 🤔 I’m looking for help with ... nothing just yet.
+- 💬 Ask me about speaking at your event or on your podcast!
+- 📫 How to reach me: alliefern.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love Java Monsters. Specifically the salted caramel ones. LIFE.
+- 
+<p>
+  <a href="https://vaunt.dev">
+    <img src="https://api.vaunt.dev/v1/github/entities/alliefern/contributions?format=svg" width="350" />
+  </a>
+</p>
